@@ -253,7 +253,7 @@ v <- vector()
 return(as.data.frame(matrix(v,nrow=9,ncol=length(object),byrow=FALSE)))
 }
 
-#a
+#as
 
 
 
